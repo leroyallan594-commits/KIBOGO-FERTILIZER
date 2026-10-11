@@ -2,9 +2,13 @@
 
 ## Client-supplied photographs
 
-The provided client archive was inspected and the selected photographs were optimized into WebP assets:
+The provided client archive was inspected and selected photographs were optimized into WebP assets. The homepage's waste-to-value story uses authentic collection, compost-processing, bagging, and finished-bag imagery before introducing products.
 
-The four-source-stream diagram in the process section is CSS/HTML, not a stock or generated photograph. It describes the two streams supplied in the brief.
+The waste-source photograph shows collection of organic waste at a client processing site; it is not specifically identifiable as avocado waste. The copy explains the avocado value-chain opportunity without claiming the pictured material is avocado waste.
+
+- `public/images/waste-source.webp` — organic waste collection at a client processing site; derived from `WhatsApp Image 2026-10-08 at 06.22.05 (2).jpeg`.
+- `public/images/compost-sort.webp` — workers sieving compost material; derived from `WhatsApp Image 2026-10-08 at 06.22.10 (2).jpeg`.
+- `public/images/bagging.webp` — workers handling product bags at a client site; derived from `WhatsApp Image 2026-10-08 at 06.22.06 (1).jpeg`.
 
 Only images referenced by the site are retained in `public/images/`; unused source copies and intermediate exports were removed to avoid unused photos in the deployment.
 
